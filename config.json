@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesync",
+        "uuid": 34433339,
+        "checksum": "b4d3y"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
